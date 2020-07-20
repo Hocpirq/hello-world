@@ -1,2 +1,2 @@
 # hello-world
-startingin GitHub today!
+starting in GitHub today!
